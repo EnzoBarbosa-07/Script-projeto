@@ -14,7 +14,7 @@ chmod +x calculadora.sh
 
 
 
-COMO EXECUTAR O SCRIPT .sh:
+DESCRIÇÃO DO CÓDIGO EM PYTHON:
  
  O código solicita que o usuário digite dois números e escolha uma operação matemática:
  
