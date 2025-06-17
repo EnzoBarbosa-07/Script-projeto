@@ -1,6 +1,7 @@
-**CALCULADORA INTERATIVA EM PYTHON
+**CALCULADORA INTERATIVA EM PYTHON**
 
-Projeto desenvolvido durante o curso de Análise de Dados da EBAC...**
+**Projeto desenvolvido durante o curso de Análise de Dados da EBAC...**
+
 
 
 **Como executar o script .sh:**
@@ -35,5 +36,5 @@ Com base na escolha do usuário, o programa executa a operação desejada e impr
 
 O código também verifica se a operação digitada é válida. Se o usuário informar um operador diferente dos disponíveis, ele exibe uma mensagem de erro informando que a operação é inválida.
 
-
+---
 Desenvolvido por **Enzo Barbosa**
